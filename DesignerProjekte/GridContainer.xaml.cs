@@ -24,6 +24,11 @@ namespace DesignerProjekte
             InitializeComponent();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private void myBtn_Click(object sender, RoutedEventArgs e)
         {
             Close();
